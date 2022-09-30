@@ -1,4 +1,4 @@
-# My CH Exploration Plan
+# My CH Exploration Plan (experiment 1)
 - Compiling a Hello World program
 - Reading input from command line 
 - Reading a file
