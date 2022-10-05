@@ -6,3 +6,4 @@
 - Creating a data structure
 - Creating an array 
 - Creating a loop to go through the array
+- Create a function
